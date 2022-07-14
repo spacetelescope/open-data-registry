@@ -1,0 +1,28 @@
+Name: James Webb Space Telescope (JWST)
+Description: |
+  The James Webb Space Telescope (JWST) is NASA’s infrared flagship observatory. JWST is an international collaboration between NASA, the European Space Agency (ESA), and the Canadian Space Agency (CSA).
+
+  Following on the technical and scientific legacy of previous optical and infrared space observatories, such as the Hubble, Spitzer and Herschel, JWST offers orders of magnitude improvements in sensitivity and spatial resolution from 0.6 to 28.8 micron, enabling transformative research in a broad range of science areas, including the solar system, exoplanets, star- and planet-formation, galactic science, galaxy formation and evolution, and cosmology.
+Documentation: https://outerspace.stsci.edu/display/MASTDATA/JWST+Data+Release
+Contact: archive@stsci.edu
+ManagedBy: "[Space Telescope Science Institute](http://www.stsci.edu/)"
+UpdateFrequency: Monthly
+Tags:
+  - astronomy
+  - aws-pds
+License: STScI herby grants the non-exclusive, royalty free, non-transferable, worldwide right and license to use, reproduce and publicly display in all media public data from the JWST mission.
+Resources:
+  - Description: JWST ERO and Commissioning Science Data Files
+    ARN: arn:aws:cloudfront::879230861493:distribution/EPE10DRZIR7LO
+    URL: https://stpubdata-jwst.stsci.edu/index.html
+    Region: us-east-1
+    Type: CloudFront Distribution
+    RequesterPays: False
+DataAtWork:
+  Tutorials:
+  Tools & Applications:
+  Publications:
+    - Title:
+      URL:
+      AuthorName:
+      AuthorURL:
