@@ -11,7 +11,7 @@ Tags:
   - aws-pds
 License: All HLSPs hosted at MAST are subject to a [CC By 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 Resources:
-  - Description: TESS Mission data files
+  - Description: TGLC Files
     ARN: arn:aws:s3:::stpubdata/hlsp/tglc
     Region: us-east-1
     Type: S3 Bucket
